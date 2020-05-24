@@ -2,3 +2,4 @@
 **/data
 serve/__pycache__/
 train/__pycache__/
+.ipynb_checkpoints/
